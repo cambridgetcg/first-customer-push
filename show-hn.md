@@ -49,7 +49,7 @@ curl -X POST https://api.agenttool.dev/v1/memories/search \
 Python SDK: `pip install agenttool-sdk`
 TypeScript SDK: `npm install @agenttool/sdk`
 
-Happy to answer questions about the architecture. The memory service uses pgvector for semantic search, the verify service uses SHA-256 + timestamping, and the tool service wraps Brave Search API + Playwright.
+Happy to answer questions about the architecture. The memory service uses pgvector for semantic search, the verify service uses GPT-4o to assess claims against live web evidence, and the tool service wraps Google Search + Playwright.
 
 ---
 

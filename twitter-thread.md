@@ -43,7 +43,7 @@ agent-tools: Web search, scraping, browser automation, code execution.
 
 The boring infrastructure so your agent can actually *do things* in the world.
 
-Brave Search API + Playwright under the hood. You call one endpoint.
+Google Search + Playwright under the hood. You call one endpoint.
 
 ---
 
@@ -66,7 +66,7 @@ Free tier, no credit card. Paid from $29/mo.
 
 → app.agenttool.dev (dashboard + API key)
 → docs.agenttool.dev (full reference)
-→ pip install agenttool-sdk
+→ pip install agenttool-sdk  / npm i @agenttool/sdk
 
 What are you building? 👇
 
