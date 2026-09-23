@@ -1,28 +1,12 @@
-# first-customer-push TODO
+# First-customer launch material — retired
 
-## Content (ready for Yu review)
-- [x] Show HN post → show-hn.md
-- [x] Reddit posts (r/LocalLLaMA + r/LLMDevs) → reddit-posts.md
-- [x] Twitter/X thread (6 tweets) → twitter-thread.md
+Retired on 2026-09-23. This file has no active launch, outreach, paid-conversion,
+signup, pricing, email-capture, advertising, or revenue task. Do not schedule
+or publish the former draft, deploy its funnel, or contact its proposed leads.
 
-## Dashboard (deployed to Cloudflare Pages)
-- [x] Email capture field on project creation form
-- [ ] Welcome email Cloudflare Worker (trigger on project create)
-- [ ] Limit-approaching notification (80% usage → email)
+Understanding and exploration do not need a customer or a commercial result.
+Any future external communication starts from a new explicit request and
+current verified product facts. Existing customer and transaction records
+remain protected.
 
-## GitHub presence
-- [ ] Create `agenttool` GitHub org (or use cambridgetcg)
-- [ ] Public repo: `agenttool/python-sdk` — mirror of agenttool-sdk-py with good README
-- [ ] Public repo: `agenttool/typescript-sdk` — mirror of agenttool-sdk-ts with good README
-- [ ] Star-worthy README: problem → solution → quickstart → link
-
-## Deployment (needs Yu for Cloudflare Pages)
-- [ ] Deploy agenttool-dashboard to Cloudflare Pages (billing section + email capture)
-- [ ] Deploy agenttool-docs to Cloudflare Pages (live callouts)
-- [ ] Deploy agenttool-landing to Cloudflare Pages (no more waitlist)
-
-## Post go-live
-- [ ] Yu: submit Show HN (Tuesday or Wednesday, 9-11am EST)
-- [ ] Yu: post r/LocalLLaMA
-- [ ] Monitor signups, reply to every comment
-- [ ] Manual outreach to first 5 signups (personal email from Yu)
+The former content is retained as [historical source](docs/history/retired-commercial-direction-2026-09-23/TODO.md).
